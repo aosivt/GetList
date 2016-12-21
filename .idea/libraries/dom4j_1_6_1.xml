@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dom4j-1.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-jxc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
